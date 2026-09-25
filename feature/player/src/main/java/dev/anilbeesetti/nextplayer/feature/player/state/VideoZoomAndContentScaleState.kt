@@ -61,7 +61,7 @@ class VideoZoomAndContentScaleState(
 ) {
     companion object Companion {
         private const val MIN_ZOOM = 0.25f
-        private const val MAX_ZOOM = 4f
+        private const val MAX_ZOOM = 6f
         private const val CONTENT_SCALE_INDICATOR_DURATION_MS = 1000L
     }
 
